@@ -20,3 +20,9 @@ workspace/
 
 # Qoder 编辑器本地缓存目录
 .qoder/
+
+# nanobot 本地会话缓存
+sessions/
+
+# 日志
+memory/
