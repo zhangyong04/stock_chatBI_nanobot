@@ -1,0 +1,22 @@
+# Python 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 其他常见忽略项
+*.log
+.DS_Store
+
+# 忽略图片展示文件夹
+image_show/
+
+# 忽略工作区文件夹
+workspace/
+
+# Qoder 编辑器本地缓存目录
+.qoder/
