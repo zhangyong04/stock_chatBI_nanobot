@@ -1,4 +1,0 @@
-[2026-06-16 21:05] User requested stock analysis comparing 贵州茅台(600519.SH) and 中芯国际(688981.SH) for 2025, ARIMA prediction for 贵州茅台, and Bollinger Bands overbought/oversold detection for 中芯国际. Key findings: 中芯国际 +36.54% vs 贵州茅台 -7.45% in 2025; ARIMA(5,1,5) predicted 贵州茅台 at ~1257-1267元 for next 10 days; Bollinger Bands showed 中芯国际 had 22 overbought days vs 5 oversold days in past year, indicating strong uptrend.
-
-[2026-06-17 00:27] User requested Bollinger Bands overbought/oversold detection for 中芯国际 (688981.SH) over the past year. Analysis confirmed 22 overbought days (9.3%) across 5 phases (Jun 2025, Jul 2025, Aug 2025, Dec 2025-Jan 2026, Apr-May 2026) and 5 oversold days (2.1%) concentrated in Feb 2026 and Mar 23, 2026. Most extreme overbought: 2026-05-25 at 156元 (+9.42% above upper band). Most extreme oversold: 2026-02-05 at 111.8元 (-1.6% below lower band). Key insight: 22:5 ratio and deviation asymmetry (9.42% vs 1.6%) indicates strong uptrend.
-
